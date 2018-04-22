@@ -1,0 +1,12 @@
+[Desktop Entry]
+Name=Optiva
+Comment=Optiva 🕵️ Web Application Scanner 🕵️
+Encoding=UTF-8
+Exec=sh -c "optiva;${SHELL:-bash}"
+Icon=optiva.png
+StartupNotify=false
+Terminal=true
+Type=Application
+Categories=03-webapp-analysis;
+X-Kali-Package=optiva
+Name[C]=optiva
