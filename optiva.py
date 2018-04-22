@@ -4,7 +4,7 @@
 # Optiva-framework - Web application scanner
 # Twitter: https://twitter.com/SecurityJoker
 # Channel ; https://www.youtube.com/c/Professionalhacker25
-# FACE Pg2: https://facebook.com/kali.linux.pentesting.tutorials
+# FACE Pg : https://facebook.com/kali.linux.pentesting.tutorials
 
 
 #modules
