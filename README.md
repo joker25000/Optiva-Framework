@@ -66,7 +66,7 @@ $ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
 
 $ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
 
-$ Tested On : Kali Linux /  Parrot Os / Ubuntu / BlankOn Linux / Archman 
+$ Tested On : Kali Linux /  Parrot Os / Ubuntu / BlankOn Linux / Archman / ArcoLinux
 
 
 
