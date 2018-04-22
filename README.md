@@ -53,8 +53,7 @@ $ Type In Terminal
 $ optiva
 
 ## Screenshot :
-<img src="https://i.imgur.com/PwmPoNh.png" width="100%"></img>
-<img src="https://i.imgur.com/aCz0OPg.png" width="100%"></img>
+<img src="https://i.imgur.com/PwmPoNh.png" width="50%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="50%"></img>
 ## About :
 
 $ Twitter : https://twitter.com/SecurityJoker
