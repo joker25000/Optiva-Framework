@@ -5,7 +5,8 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-<h4>Author: Joker-Security [ dev-labs ]</h4>
+<h6>Author: Joker-Security [ dev-labs ]</h6>
+
  ![](https://i.imgur.com/VESr2Et.jpg)
  
 # Description: 
