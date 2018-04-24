@@ -87,7 +87,7 @@ clear
 ;;
 '2')
 echo -e $green "[*] Loading... "
-sudo pacman -Syu
+sudo pacman -Syy
 sudo pacman -S python2-pip
 echo "[*] installing requirements...."
 pip2 install -r requirements.txt
