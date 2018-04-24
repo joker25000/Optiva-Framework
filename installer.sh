@@ -1,6 +1,6 @@
 #!/bin/bash
 # author : Joker-Security 
-# Tested on Kali Linux / lxle-linux / Parrot Os / Archman 
+# Tested on Kali Linux / Parrot Os / Archman / ArcoLinux
 # Simple script for Install Optiva-Framework
 #Colors
 cyan='\e[0;36m'
