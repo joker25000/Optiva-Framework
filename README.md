@@ -1,11 +1,11 @@
-#  Optiva-Framework 🕵️ Web Application Scanner 🕵️ 
+#  ***Optiva-Framework*** 🕵️ ***Web Application Scanner*** 🕵️ 
 [![Version](https://img.shields.io/badge/Optiva-Frameworkv1.0.4-brightgreen.svg?maxAge=259200)]()
 [![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Mint,Parrot-blue,Windows,Android.svg)]()
 [![AUR](https://img.shields.io/aur/license/yaourt.svg)]()
 
-__Author__: __Joker-Security__ [ dev-labs ]
+# ***Author*** : __Joker-Security__ [ dev-labs ]
 
  ![](https://i.imgur.com/VESr2Et.jpg)
  
@@ -13,7 +13,7 @@ __Author__: __Joker-Security__ [ dev-labs ]
 
 You can use this Framework on your website to check the security of your website by finding the vulnerability in your website or you can use this tool to Get admin panel search  SQL injection by dork As well as collecting information and encrypting Hash
 
-## Features:
+## ***Features***:
 
 - __Infromation Modules__ :
 
