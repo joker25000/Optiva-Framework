@@ -9,7 +9,7 @@ __Author__: __Joker-Security__ [ dev-labs ]
 
  ![](https://i.imgur.com/VESr2Et.jpg)
  
-# Description: 
+# ***Description***: 
 
 You can use this Framework on your website to check the security of your website by finding the vulnerability in your website or you can use this tool to Get admin panel search  SQL injection by dork As well as collecting information and encrypting Hash
 
@@ -38,7 +38,7 @@ You can use this Framework on your website to check the security of your website
 - [x] Remote Code Execution Scanner (RCE)
 - [x] Website Admin Panel Scanner Finder
 
-## Installation :
+## ***Installation*** :
 
 $ git clone https://github.com/joker25000/Optiva-Framework
 
@@ -52,13 +52,13 @@ $ Type In Terminal
 
 $ optiva
 
-## Screenshot :
+## ***Screenshot*** :
 <img src="https://i.imgur.com/PwmPoNh.png" width="40%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="40%"></img><img src="https://i.imgur.com/TP4awyu.png" width="40%"></img><img src="https://i.imgur.com/A8dQGdj.png" width="40%"></img>
 
-## video tutorial:
+## ***video tutorial***:
 [![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/eF11o6yLlv8/hqdefault.jpg)](https://www.youtube.com/watch?v=eF11o6yLlv8&t=31s)
 
-## About :
+## ***About*** :
 
 $ Twitter : https://twitter.com/SecurityJoker
 
