@@ -38,7 +38,7 @@ You can use this Framework on your website to check the security of your website
 - [x] Remote Code Execution Scanner (RCE)
 - [x] Website Admin Panel Scanner Finder
 
-## ***Installation*** :
+## ***Installation Linux*** :
 
 $ git clone https://github.com/joker25000/Optiva-Framework
 
@@ -51,6 +51,24 @@ $ ./installer.sh
 $ Type In Terminal
 
 $ optiva
+
+## ***Installation Windows*** :
+
+$ cd Optiva-Framework
+
+$ pip install termcolor
+
+$ pip install requests
+
+$ pip install mechanize
+
+$ Edit file optiva.py remove this code 
+
+![](https://i.imgur.com/hgGzNre.gif)
+ 
+$ run optiva :
+
+$ python optiva.py 
 
 ## ***Screenshot*** :
 <img src="https://i.imgur.com/PwmPoNh.png" width="40%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="40%"></img><img src="https://i.imgur.com/TP4awyu.png" width="40%"></img><img src="https://i.imgur.com/A8dQGdj.png" width="40%"></img>
@@ -66,7 +84,7 @@ $ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
 
 $ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
 
-$ Tested On : Kali Linux /  Parrot Os / Ubuntu / BlankOn Linux / Archman / ArcoLinux
+$ Tested On : Windows / Kali Linux /  Parrot Os / Ubuntu / BlankOn Linux / Archman / ArcoLinux
 
 
 
