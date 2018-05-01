@@ -4,8 +4,7 @@
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
 [![Build](https://img.shields.io/badge/Supported_OS-Arch,Kali,Parrot,Windows,Parrot-blue,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
-# ***Author*** : Joker-Security [ dev-labs ]
-[![Open Source Love](https://badges.frapsoft.com/os/v1/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+# ***Author*** : Joker-Security [ dev-labs ] 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br>
 
  ![](https://i.imgur.com/VESr2Et.jpg)
