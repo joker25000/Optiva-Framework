@@ -2,7 +2,7 @@
 [![Version](https://img.shields.io/badge/Optiva-Frameworkv1.0.4-brightgreen.svg?maxAge=259200)]()
 [![Python 2.x](https://img.shields.io/badge/python-2.x-blue.svg)]()
 [![Stage](https://img.shields.io/badge/Release-Stable-brightgreen.svg)]()
-[![Build](https://img.shields.io/badge/Supported_OS-Arch,Ubuntu,Kali,Parrot,Android.svg)]()
+[![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Arch,Kali,Parrot,Windows,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # ***Author*** : Joker-Security [ dev-labs ] 
 [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br>
