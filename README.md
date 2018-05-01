@@ -5,8 +5,6 @@
 [![Build](https://img.shields.io/badge/Supported_OS-Ubuntu,Kali,Arch,Parrot-blue,Windows,Android.svg)]()
 [![Awesome](https://awesome.re/badge.svg)](https://awesome.re)
 # ***Author*** : Joker-Security [ dev-labs ] 
-[![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)<br>
-
  ![](https://i.imgur.com/VESr2Et.jpg)
  
 # ***Description***: 
