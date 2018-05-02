@@ -36,7 +36,7 @@ You can use this Framework on your website to check the security of your website
 - [x] Remote Code Execution Scanner (RCE)
 - [x] Website Admin Panel Scanner Finder
 
-## ***Installation Linux*** :
+## ✔️ ***Installation Linux*** :
 
 $ git clone https://github.com/joker25000/Optiva-Framework
 
@@ -50,7 +50,7 @@ $ Type In Terminal
 
 $ optiva
 
-## ***Installation Windows*** :
+## ✔️ ***Installation Windows*** :
 
 $ cd Optiva-Framework
 
