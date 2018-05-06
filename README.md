@@ -59,10 +59,6 @@ $ pip install termcolor
 $ pip install requests
 
 $ pip install mechanize
-
-$ Edit file optiva.py remove this code and save
-
-![](https://i.imgur.com/hgGzNre.gif)
  
 $ run optiva :
 
