@@ -82,7 +82,7 @@ $ YOUTUBE : https://www.youtube.com/c/Professionalhacker25
 
 $ FACEBOOK: https://facebook.com/kali.linux.pentesting.tutorials
 
-$ Tested On : Windows / Kali Linux /  Parrot Os / Ubuntu / Archman / ArcoLinux
+$ Tested On : Windows / Kali Linux /  Parrot Os / Ubuntu / Archman / ArcoLinux / Termux
 
 
 
