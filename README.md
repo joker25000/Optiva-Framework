@@ -68,6 +68,22 @@ $ run optiva :
 
 $ python optiva.py 
 
+## ✔️ ***Installation Termux (No Root)*** :
+
+$ apt install git
+
+$ git clone https://github.com/joker25000/Optiva-Framework
+
+$ cd Optiva-Framework 
+
+$ chmod +x installer.sh 
+
+$ bash installer.sh 
+
+$ Select the 3 option termux and press enter
+
+$ python2 optiva.py
+
 ## ✔️ ***Screenshot*** :
 <img src="https://i.imgur.com/PwmPoNh.png" width="40%"></img><img src="https://i.imgur.com/aCz0OPg.png" width="40%"></img><img src="https://i.imgur.com/TP4awyu.png" width="40%"></img><img src="https://i.imgur.com/A8dQGdj.png" width="40%"></img>
 
