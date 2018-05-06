@@ -53,8 +53,8 @@ def clear():
     else:
         pass
 
-if not os.geteuid() == 0:
-    sys.exit("\033[1;91m[!] \033[92mYou are not root! \033[1;91m[!]")
+#if not os.geteuid() == 0:
+#    sys.exit("\033[1;91m[!] \033[92mYou are not root! \033[1;91m[!]")
 
 class OptivaMain(object):
 	   
