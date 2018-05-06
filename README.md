@@ -78,6 +78,8 @@ $ bash installer.sh
 
 $ Select the 3 option termux and press enter
 
+$ run optiva :
+
 $ python2 optiva.py
 
 ## ✔️ ***Screenshot*** :
