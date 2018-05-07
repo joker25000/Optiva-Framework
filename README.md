@@ -87,7 +87,7 @@ $ python2 optiva.py
 
 ## ✔️ ***Full video tutorial***:
 [![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/eF11o6yLlv8/hqdefault.jpg)](https://www.youtube.com/watch?v=eF11o6yLlv8&t=31s)
-## ✔️ **video Termux tutorial***:
+## ✔️ ***video Termux tutorial***:
 [![ Optiva-Framework - Web Application Scanner ](https://i.ytimg.com/vi/RXQPgrIlRe4/hqdefault.jpg)](https://www.youtube.com/watch?v=RXQPgrIlRe4)
 ## ✔️ ***About*** :
 
